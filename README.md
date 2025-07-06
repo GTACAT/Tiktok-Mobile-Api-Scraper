@@ -94,3 +94,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 This tool is provided for educational and research purposes only. Use responsibly. The author assumes no liability for misuse.
 t.me/WolfofChinatown
+
+---
+
+## Support
+
+If you find this project helpful, consider supporting me:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/woct
