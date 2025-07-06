@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output
+/video_json_details/
+*.json
+
+# User-specific files
+proxy.txt
+
+# System files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+requests
+pycryptodome
+pycryptodomex
+curl_cffi
